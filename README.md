@@ -1,1 +1,2 @@
-# CS364_Project
+# Project Description
+In this project, we built a Random Forest model to estimate the level of obesity of individuals with help of the "Obesity Levels & Life Style" dataset from Kaggle, which is a dataset that consists of 2113 records and 16 features varying between individual's physical condition and eating habits. This dataset is collected from the countries of Mexico, Peru, and Colombia. The model shows good performance with average of 96% accuracy.
