@@ -9,7 +9,7 @@ The model is implemented using Python programming language with help of Jupyter 
 ## Group Members
 
 | Student name | Student ID | Email |
-| ------------- | ------------- | ------------- |
+| ----------- | ----------- | ----------- |
 | Nouf Alajmi  | 441022333  | nomoalajmi@sm.imamu.edu.sa |
 | Abeer Aldosari  | 440023513  | amsaldosari13@sm.imamu.edu.sa |
 | Razan Alabulkarim | 440021710 | rsaalabdulkrim@sm.imamu.edu.sa |
